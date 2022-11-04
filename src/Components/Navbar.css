@@ -2,7 +2,6 @@
   background-color: #002e25;
   color: #cccdd7;
   display: flex;
-
   padding: 5px 100px 5px 100px;
   height: 60px;
 }
@@ -40,5 +39,5 @@
 }
 
 .navbar div {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
