@@ -6,6 +6,7 @@
   padding: 5px 100px 5px 100px;
   height: 60px;
 }
+
 /* .navbar p {
   display: flex;
   align-items: center;
@@ -14,6 +15,7 @@
   display: flex;
   width: 20%;
 }
+
 .logo {
   width: 50px;
 }
@@ -24,6 +26,7 @@
   gap: 20px;
   width: 50%;
 }
+
 .right-btns {
   display: flex;
   align-items: center;
@@ -31,13 +34,15 @@
   width: 30%;
   padding-left: 20px;
 }
-.right-btns > button {
+
+.right-btns>button {
   background-color: #008060;
   height: 40px;
   border: none;
   color: #cccdd7;
   width: 100px;
 }
+
 .navbar div {
   border: 1px solid red;
 }
